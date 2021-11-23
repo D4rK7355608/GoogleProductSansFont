@@ -13,10 +13,10 @@
 - ║║║║╩╣╚╣═╣║║║║║╩╣
 - ╚══╩═╩═╩═╩═╩╩╩╩═╝
 
-This module helps you to install Google Product Sans Font systemlessly through Magisk. This module is made to be compatible with Android 12.
+This module helps you to install Google Product Sans Font systemlessly though Magisk. Module is made to be compatible with Android 12 devices.
 
 ### Download.
-You can download module from here and flash in Magisk.
+You can download module from [here](https://github.com/D4rK7355608/GoogleProductSansFont/releases) and flash in Magisk.
 
 Features:
 - Replace all system fonts with Google Product Sans Font;
