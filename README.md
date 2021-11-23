@@ -5,9 +5,9 @@
 # Google Product Sans Font for Android 12
 
 ![Works with Android](https://img.shields.io/badge/Works%20with-Android-blue)
-![GitHub issues](https://img.shields.io/github/issues/D4rK7355608/com.d4rk.cleaner)
-![GitHub license](https://img.shields.io/github/license/D4rK7355608/com.d4rk.cleaner?label=License)
-![Pull requests](https://img.shields.io/github/issues-pr/D4rK7355608/com.d4rk.cleaner?label=Pull%20requests)
+![GitHub issues](https://img.shields.io/github/issues/D4rK7355608/GoogleProductSansFont)
+![Pull requests](https://img.shields.io/github/issues-pr/D4rK7355608/GoogleProductSansFont?label=Pull%20requests)
+![GitHub license](https://img.shields.io/github/license/D4rK7355608/GoogleProductSansFont?label=License)
 
 - ╔╦╦╦═╦╗╔═╦═╦══╦═╗
 - ║║║║╩╣╚╣═╣║║║║║╩╣
@@ -27,6 +27,8 @@ Bugs?
 - You tell me.
 
 ### Tested on Redmi Note 10 Pro (sweet) - Pixel Experience Android 12.
+
+## [XDA Tread](https://forum.xda-developers.com/t/magisk-module-google-product-sans-font-for-android-12.4366025/)
 
 <details>
   <summary>Special Thanks</summary>
