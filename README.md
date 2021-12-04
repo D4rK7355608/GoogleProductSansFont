@@ -18,12 +18,21 @@ This module helps you to install Google Product Sans Font systemlessly though Ma
 ### Download.
 You can download module from [here](https://github.com/D4rK7355608/GoogleProductSansFont/releases) and flash in Magisk.
 
+Changelog:
+
+Version 1.0_r2:
+- Fixed some squares (more fixes coming soon).
+
+Version 1.0_r1:
+- Initial version;
+
+
 Features:
 - Replace all system fonts with Google Product Sans Font;
 - Android 12.1 emojis added.
 
 Bugs?
-- I can't say is a bug but everyone have his own perspective put I miss some fonts because I was lazy. Maybe I'll add the missing fonts in the future update. XD
+- Some squares.
 - You tell me.
 
 ### Tested on Redmi Note 10 Pro (sweet) - Pixel Experience Android 12.
