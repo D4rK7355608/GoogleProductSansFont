@@ -51,7 +51,8 @@ Bugs?
   <summary>Special Thanks</summary>
 
 - Thanks [Looki75](https://github.com/Looki75) for [looki75productsansfont](https://github.com/Looki75/looki75productsansfont);
-
+- Thanks [VladWinner](https://github.com/VladWinner) for his contribution at module.
+  
 </details>
 
 ### 👨🏻‍💻 &nbsp;More About Me:
