@@ -16,15 +16,15 @@
 This module helps you to replace old Roboto font with Google Product Sans Font systemlessly though Magisk. Module is made to be compatible with Android 12 & 12.1 devices.
 
 # Download.
-You can download module from [here](https://github.com/D4rK7355608/GoogleProductSansFont/releases) and flash in Magisk.
+You can download module from [here](https://github.com/D4rK7355608/GoogleProductSansFont/releases) and flash in Magisk Manager.
 
 # Features:
 - Replace all system fonts with Google Product Sans Font;
-- Android 12.1 emojis added.
+- Android 12.1+ emojis;
+- Version without emojis (in case you want to keep system emojis).
 
 # Bugs?
-- Yeah, yeah, arabic fonts;
-- Italic font sometimes not work;
+- I'll be honest, there is some problems with arabic, bold and italic fonts;
 - You tell me.
 
 ## Tested on Redmi Note 10 Pro (sweet) - Pixel Experience Android 12.1.
