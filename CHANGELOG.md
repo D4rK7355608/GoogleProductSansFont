@@ -4,6 +4,7 @@ Version 1.0_r5:
 - Added [CHANGELOG.md](https://github.com/D4rK7355608/GoogleProductSansFont/blob/main/CHANGELOG.md);
 - Updated emojis to default one;
 - Updated some fonts;
+- Reduced module size;
 - Added code of conduct.
 
 Version 1.0_r4;
