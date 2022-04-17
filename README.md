@@ -2,7 +2,7 @@
 <img src="banner.png" width="800">
 </p>
 
-# Google Product Sans Font for Android 12
+# Google Product Sans Font for Android 12+
 
 ![Works with Android](https://img.shields.io/badge/Works%20with-Android-blue)
 ![GitHub issues](https://img.shields.io/github/issues/D4rK7355608/GoogleProductSansFont)
@@ -13,52 +13,21 @@
 - ║║║║╩╣╚╣═╣║║║║║╩╣
 - ╚══╩═╩═╩═╩═╩╩╩╩═╝
 
-This module helps you to install Google Product Sans Font systemlessly though Magisk. Module is made to be compatible with Android 12 devices.
+This module helps you to replace old Roboto font with Google Product Sans Font systemlessly though Magisk. Module is made to be compatible with Android 12 & 12.1 devices.
 
-### Download.
+# Download.
 You can download module from [here](https://github.com/D4rK7355608/GoogleProductSansFont/releases) and flash in Magisk.
 
-Changelog:
-
-Version 1.0_r4;
-- Fixed:
- #3 
- #4 
- #6 
- #7 
-- Renamed some fonts for better compatibility
-- Reduced module size
-- Added emoji support for more devices
-- Added Roboto VF as a fallback ([source](https://github.com/kdrag0n/inter-font-pack#compatibility))
-
-- Thanks [VladWinner](https://github.com/VladWinner) for his contribution at module. Without him everyone will hate me XD
-
-* HOTFIX by @VladWinner in https://github.com/D4rK7355608/GoogleProductSansFont/pull/8
-
-Version 1.0_r3:
-- Fixed bold fonts on WhatsApp and more;
-- Updated fonts with latest Google Sans.ttf from Android 12;
-- Updated most of the fonts base;
-- Reduced module size;
-- Removed unused fonts;
-- Added no emoji module;
-
-Version 1.0_r2:
-- Fixed some squares (more fixes coming soon).
-
-Version 1.0_r1:
-- Initial version;
-
-
-Features:
+# Features:
 - Replace all system fonts with Google Product Sans Font;
 - Android 12.1 emojis added.
 
-Bugs?
-- Some squares.
+# Bugs?
+- Yeah, yeah, arabic fonts;
+- Italic font sometimes not work;
 - You tell me.
 
-### Tested on Redmi Note 10 Pro (sweet) - Pixel Experience Android 12.
+## Tested on Redmi Note 10 Pro (sweet) - Pixel Experience Android 12.1.
 
 ## [XDA Tread](https://forum.xda-developers.com/t/magisk-module-google-product-sans-font-for-android-12.4366025/)
 
