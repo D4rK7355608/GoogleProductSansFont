@@ -1,5 +1,8 @@
 # Changelog:
 
+Version 2.0_r1:
+- Replaced some fonts with [Looki75](https://github.com/Looki75) fonts.
+
 Version 1.0_r5:
 - Added [CHANGELOG.md](https://github.com/D4rK7355608/GoogleProductSansFont/blob/main/CHANGELOG.md);
 - Updated emojis to default one;
