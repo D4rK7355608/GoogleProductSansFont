@@ -4,7 +4,7 @@
 
 # Google Product Sans Font for Android 12+
 
-![Made for Magisk](https://img.shields.io/badge/Made%20for-Magirsk-teal?style=for-the-badge&logo=magisk)
+![Made for Magisk](https://img.shields.io/badge/Made%20for-Magisk-teal?style=for-the-badge&logo=magisk)
 ![GitHub Downloads](https://img.shields.io/github/downloads/D4rK7355608/GoogleProductSansFont/total?color=green&style=for-the-badge&logo=github)
 ![GitHub Issues](https://img.shields.io/github/issues/D4rK7355608/GoogleProductSansFont?style=for-the-badge&logo=github)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/D4rK7355608/GoogleProductSansFont?style=for-the-badge&logo=github)
