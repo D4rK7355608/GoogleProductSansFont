@@ -1,7 +1,8 @@
 id=googleproductsansfont
 name=Google Product Sans 
-version=1.0
-versionCode=1
+version=2.0
+versionCode=7
 author=D4rK
 description=Systemlessly Google Product Sans Font for Android 12!
-minMagisk=20200
+donate=https://www.patreon.com/patreon.com/D4rK7355608
+updateJson=https://raw.githubusercontent.com/D4rK7355608/GoogleProductSansFont/master/update.json
